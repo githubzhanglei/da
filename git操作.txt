@@ -1,0 +1,6 @@
+0、初始化一个本地仓库 git init
+1、链接远程仓库 git remote add origin https://github.com/githubzhanglei/da.git
+2、将本地文件加入缓存 git add --all
+3、提交到本地仓库 git commit -m 'first commit'
+4、推到远程仓库git push -u origin master
+
